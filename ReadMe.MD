@@ -28,7 +28,7 @@ LibraryManagementSystem/
 │
 ├── README.md                           // Project documentation
 ├── .gitignore                           // Ignore compiled files & libraryData.txt in Git
-
+```
 ## 🚀 Getting Started
 
 This section will help you set up and run the **Library Management System** on your local machine.
