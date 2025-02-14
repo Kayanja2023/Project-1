@@ -17,6 +17,7 @@ The **Library Management System** is a simple Java-based console application des
 ---
 
 ## 📂 Project Structure
+```sh
 LibraryManagementSystem/
 ├── src/
 │   ├── LibraryManagementSystem.java   // Main entry point for user interaction
