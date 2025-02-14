@@ -69,7 +69,7 @@ You can run the project using an **IDE** or **Command Line**.
 3. **Run the program**
 ```sh
 java -cp bin LibraryManagementSystem
-
+```
 4. **Expected Output**
 ```sh
 Library Management System
