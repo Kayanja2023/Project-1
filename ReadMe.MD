@@ -71,6 +71,7 @@ You can run the project using an **IDE** or **Command Line**.
 java -cp bin LibraryManagementSystem
 
 4. **Expected Output**
+```sh
 Library Management System
 1. Add a new book
 2. View all books
